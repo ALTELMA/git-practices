@@ -13,7 +13,7 @@ Github have 3 types of merge via PR
 ### Product API
 
 - Get Products List
-- Get Product by ID
+- Get Product by ID - /api/product/{id}
 - Create Product
 - Update Product
 - Delete Product
