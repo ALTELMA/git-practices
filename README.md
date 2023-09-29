@@ -9,3 +9,11 @@ Github have 3 types of merge via PR
 - Merge commit
 - Squash merge
 - Rebase merge
+
+### Product API
+
+- Get Products List
+- Get Product by ID - /api/product/{id}
+- Create Product
+- Update Product
+- Delete Product
